@@ -1,5 +1,5 @@
 # Dictionary-Attack-Python
-This is a purely educational project which demonstrates the implementation of a Dictionary Attack using Python.
+This is a **purely educational project** which demonstrates the implementation of a Dictionary Attack using Python.
 
 
 # Info
@@ -26,5 +26,5 @@ dictionary_attack.py [ZIP FILE] [PASSWORD LIST1] [PASSWORD LIST2] [PASSWORD LIST
 
 Example:
 ```
->>> dictionary_attack.py test.zip, list1.txt, list2.txt, list3.txt
+>>> dictionary_attack.py test.zip list1.txt list2.txt list3.txt
 ```
